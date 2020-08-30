@@ -5,9 +5,9 @@ I'm Loiane Groner, and I'm a Software Engineer at Citibank and I've been working
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), [books](https://www.packtpub.com/books/info/authors/loiane-groner) and recently with [code streaming](https://www.twitch.tv/loiane). 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
-[![Linkedin: loiane](https://img.shields.io/badge/-Loiane%20Groner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
-[![Youtube: loianegroner](https://img.shields.io/badge/-Loiane%20Groner-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
-[![Twitch: loianegroner](https://img.shields.io/badge/-Loiane-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/loiane)](https://www.twitch.tv/loiane)
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
+[![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
+[![Twitch: loianegroner](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/loiane)](https://www.twitch.tv/loiane)
 
 ## ⚡ Technologies
 
