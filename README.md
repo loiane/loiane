@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loiane Groner, and I'm a software engineer at Citibank and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
+I'm Loiane Groner, and I'm a Software Engineer at Citibank and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
 
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), [books](https://www.packtpub.com/books/info/authors/loiane-groner) and recently with [code streaming](https://www.twitch.tv/loiane). 
 
@@ -38,3 +38,6 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
