@@ -2,7 +2,7 @@
 
 I'm Loiane Groner,  I'm a Software Engineer at Citibank, and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
 
-I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), [books](https://www.packtpub.com/books/info/authors/loiane-groner) and recently with [code streaming](https://www.twitch.tv/loiane). 
+I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner) and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
