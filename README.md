@@ -4,6 +4,8 @@ I'm Loiane Groner,  I'm a Software Engineer at Citibank, and I've been working i
 
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner) and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 
+For my contributions in the developer community, I was honored by being given the titles [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Loiane%20%20Groner-5002870), [Google Developer Expert in Angular](https://developers.google.com/community/experts/directory/profile/profile-loiane-groner), [Oracle ACE](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=672&clear=2) and [Java Champion](https://dev.java/community/jcs/).
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
