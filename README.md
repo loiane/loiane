@@ -14,6 +14,7 @@ For my contributions in the developer community, I was honored by being given th
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
+- [CRUD Angular + Spring | 37: Spring Boot 3 (Spring 6)](https://youtu.be/j0UW1Pppfts)
 - [CRUD Angular + Spring | 36: Remoção Lógica (Soft Delete)](https://youtu.be/-EYXYci9kVI)
 - [CRUD Angular + Spring | 35: Validações da API com Java Bean Validation](https://youtu.be/Tm6ycFeavGA)
 - [CRUD Angular + Spring | 34: Validações de Formulário no Front-end](https://youtu.be/As70gDHoagE)
