@@ -14,11 +14,11 @@ For my contributions in the developer community, I was honored by being given th
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
+- [CRUD Angular + Spring | 40: Tratando Exceções com Controller Advice](https://youtu.be/L6wR2DhORrg)
 - [CRUD Angular + Spring | 39: Adicionando Camada de Serviço na API](https://youtu.be/Vn2b2D-77bo)
 - [CRUD Angular + Spring | 37: Spring Boot 3 (Spring 6)](https://youtu.be/j0UW1Pppfts)
 - [CRUD Angular + Spring | 36: Remoção Lógica (Soft Delete)](https://youtu.be/-EYXYci9kVI)
 - [CRUD Angular + Spring | 35: Validações da API com Java Bean Validation](https://youtu.be/Tm6ycFeavGA)
-- [CRUD Angular + Spring | 34: Validações de Formulário no Front-end](https://youtu.be/As70gDHoagE)
 ____
 
 ## ⚡ Technologies
