@@ -14,11 +14,15 @@ For my contributions in the developer community, I was honored by being given th
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
-- [CRUD Angular + Spring | 40: Tratando Exceções com Controller Advice](https://youtu.be/L6wR2DhORrg)
-- [CRUD Angular + Spring | 39: Adicionando Camada de Serviço na API](https://youtu.be/Vn2b2D-77bo)
-- [CRUD Angular + Spring | 37: Spring Boot 3 (Spring 6)](https://youtu.be/j0UW1Pppfts)
-- [CRUD Angular + Spring | 36: Remoção Lógica (Soft Delete)](https://youtu.be/-EYXYci9kVI)
-- [CRUD Angular + Spring | 35: Validações da API com Java Bean Validation](https://youtu.be/Tm6ycFeavGA)
+- [Angular + Spring | 44: Persistência de Enums no JPA (parte 2)](https://youtu.be/GJ0krClAmPs)
+- [Angular + Spring | 43: Persistência de Enums no JPA](https://youtu.be/1d1JbwJ_Py4)
+- [Angular + Spring | 42: Padrão Mapper](https://youtu.be/2GTgDLkDWPQ)
+- [Angular + Spring | 41: Padrão DTO (Data Transfer Object)](https://youtu.be/xeOBISdqTQc)
+- [Angular + Spring | 40: Tratando Exceções com Controller Advice](https://youtu.be/L6wR2DhORrg)
+- [Angular + Spring | 39: Adicionando Camada de Serviço na API](https://youtu.be/Vn2b2D-77bo)
+- [Angular + Spring | 37: Spring Boot 3 (Spring 6)](https://youtu.be/j0UW1Pppfts)
+- [Angular + Spring | 36: Remoção Lógica (Soft Delete)](https://youtu.be/-EYXYci9kVI)
+- [Angular + Spring | 35: Validações da API com Java Bean Validation](https://youtu.be/Tm6ycFeavGA)
 ____
 
 ## ⚡ Technologies
