@@ -2,9 +2,9 @@
 
 I'm Loiane Groner,  I'm a Software Engineer at Citibank, and I've been working in tech since 2006. 
 
-I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner) and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
+I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 
-For my contributions in the developer community, I was honored by being given the titles [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Loiane%20%20Groner-5002870), [Google Developer Expert in Angular](https://developers.google.com/community/experts/directory/profile/profile-loiane-groner), [Oracle ACE](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=672&clear=2) and [Java Champion](https://dev.java/community/jcs/).
+For my contributions to the developer community, I was honored by being given the titles [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Loiane%20%20Groner-5002870), [Google Developer Expert in Angular](https://developers.google.com/community/experts/directory/profile/profile-loiane-groner), [Oracle ACE](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=672&clear=2) and [Java Champion](https://dev.java/community/jcs/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
@@ -14,11 +14,11 @@ For my contributions in the developer community, I was honored by being given th
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
-- [Angular + Spring | 44: Persistência de Enums no JPA (parte 2)](https://youtu.be/GJ0krClAmPs)
-- [Angular + Spring | 43: Persistência de Enums no JPA](https://youtu.be/1d1JbwJ_Py4)
-- [Angular + Spring | 42: Padrão Mapper](https://youtu.be/2GTgDLkDWPQ)
-- [Angular + Spring | 41: Padrão DTO (Data Transfer Object)](https://youtu.be/xeOBISdqTQc)
-- [Angular + Spring | 40: Tratando Exceções com Controller Advice](https://youtu.be/L6wR2DhORrg)
+- [Angular + Spring | 50: Curso-Aulas: FormArray HTML](https://youtu.be/OsIquz5_UNY)
+- [Angular + Spring | 49: Curso-Aulas: FormArray](https://youtu.be/q4P5UGisG2U)
+- [Angular + Spring | 48: Curso-Aulas: Interface Aulas](https://youtu.be/HKFrz5P8D0g)
+- [Angular + Spring | 47: Curso-Aulas: Aula DTO](https://youtu.be/hRgEjn2TGCQ)
+- [Angular + Spring | 46: Curso-Aulas: Listando Aulas](https://youtu.be/ZLpyS4qqEZE)
 ____
 
 ## ⚡ Technologies
