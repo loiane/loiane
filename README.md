@@ -12,11 +12,11 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
+- [Angular + Spring | 52: Curso-Aulas: Validação do FormArray](https://youtu.be/7kVoTBZg4JM)
+- [Angular + Spring | 51: Curso-Aulas: Adicionar e Remover Aulas](https://youtu.be/Fj3Zvf-N4bk)
 - [Angular + Spring | 50: Curso-Aulas: FormArray HTML](https://youtu.be/OsIquz5_UNY)
 - [Angular + Spring | 49: Curso-Aulas: FormArray](https://youtu.be/q4P5UGisG2U)
 - [Angular + Spring | 48: Curso-Aulas: Interface Aulas](https://youtu.be/HKFrz5P8D0g)
-- [Angular + Spring | 47: Curso-Aulas: Aula DTO](https://youtu.be/hRgEjn2TGCQ)
-- [Angular + Spring | 46: Curso-Aulas: Listando Aulas](https://youtu.be/ZLpyS4qqEZE)
 ____
 
 ## ⚡ Technologies
