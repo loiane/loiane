@@ -9,6 +9,12 @@ For my contributions to the developer community, I was honored by being given th
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
+
+____
+
+### 📝 Recent Articles!
+- [Github Actions for Angular Projects: CI/CD Pipeline for Testing, Building and ng update](https://loiane.com/2024/03/github-actions-for-angular-projects-cicd-pipeline-for-testing-building-and-ng-update/)
+
 ____
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
