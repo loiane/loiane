@@ -12,12 +12,13 @@ For my contributions to the developer community, I was honored by being given th
 
 ____
 
-### 📝 Recent Articles!
+### 📝 Recent Articles
+- [Visual Studio Code for Java: The Complete Guide (Tips, Setup, and Extensions)](https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/)
 - [Github Actions for Angular Projects: CI/CD Pipeline for Testing, Building and ng update](https://loiane.com/2024/03/github-actions-for-angular-projects-cicd-pipeline-for-testing-building-and-ng-update/)
 
 ____
 
-### 📹 Recent Videos on YouTube (In Portuguese)!
+### 📹 Recent Videos on YouTube (In Portuguese)!\
 - [Angular + Spring | 64: Dicas de Estudos e Conclusão](https://youtu.be/9MSa6KEEoN4)
 - [Angular + Spring | 63: Novo Control Flow do Angular](https://youtu.be/4onmPIRH1KM)
 - [Angular + Spring | 62: Migração para Standalone Components](https://youtu.be/tE3uKdPd6tQ)
