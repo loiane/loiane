@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loiane Groner, I'm a hands on Software Engineering Manager at Citibank, and I've been working in tech since 2006. 
+I'm Loiane Groner, a hands-on Software Engineering Manager, and I've been working in tech since 2006. 
 
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 
@@ -18,10 +18,9 @@ ____
 
 ____
 
-### 📹 Recent Videos on YouTube (In Portuguese)!\
-- [Angular + Spring | 64: Dicas de Estudos e Conclusão](https://youtu.be/9MSa6KEEoN4)
-- [Angular + Spring | 63: Novo Control Flow do Angular](https://youtu.be/4onmPIRH1KM)
-- [Angular + Spring | 62: Migração para Standalone Components](https://youtu.be/tE3uKdPd6tQ)
+### 📹 Recent Videos on YouTube
+- [Github Actions for Angular Projects: Pipeline for Testing, Building and ng update](https://youtu.be/1vqJ1_AAcUg)
+
 ____
 
 ## ⚡ Technologies
