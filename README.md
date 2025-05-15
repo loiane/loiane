@@ -13,13 +13,19 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Getting Starting with Intelligent Java Applications using Spring AI](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
+- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
 - [Visual Studio Code for Java: The Complete Guide (Tips, Setup, and Extensions)](https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/)
 - [Github Actions for Angular Projects: CI/CD Pipeline for Testing, Building and ng update](https://loiane.com/2024/03/github-actions-for-angular-projects-cicd-pipeline-for-testing-building-and-ng-update/)
 
 ____
 
 ### 📹 Recent Videos on YouTube
-- [Github Actions for Angular Projects: Pipeline for Testing, Building and ng update](https://youtu.be/1vqJ1_AAcUg)
+- [Spring AI + Angular: Introdução](https://youtu.be/10oDBG6V5Q8)
+- [Spring AI + Angular: Primeiro Projeto [Chat Client]](https://youtu.be/M7j84Y16bFk)
+- [Spring AI + Angular: Chat Client com Gemini](https://youtu.be/Kq37KNwt3bA)
+- [Spring AI + Angular: Chat Client com Azure OpenAI](https://youtu.be/fjkZjObT3ro)
+- [Spring AI + Angular: Criando Projeto Angular](https://youtu.be/WUhUB0IChxE)
 
 ____
 
