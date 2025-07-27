@@ -13,6 +13,7 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
 - [Getting Starting with Intelligent Java Applications using Spring AI](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
 - [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
 - [Visual Studio Code for Java: The Complete Guide (Tips, Setup, and Extensions)](https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/)
@@ -68,3 +69,9 @@ IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+____
+
+## 📊 GitHub Stats
+![Loiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=loiane&show_icons=true&theme=tokyonight)
+
