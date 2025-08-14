@@ -13,6 +13,7 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Using GitHub Copilot to Generate Conventional Commit Messages in VSCode and IntelliJ IDEA](https://loiane.com/2025/08/copilot-conventional-commit-messages/)
 - [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
 - [Getting Starting with Intelligent Java Applications using Spring AI](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
 - [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
