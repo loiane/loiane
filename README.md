@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loiane Groner, a hands-on Software Engineering Manager, and I've been working in tech since 2006. 
+I'm Loiane Groner, a hands-on Software Engineering Lead, and I've been working in tech since 2006. 
 
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 
