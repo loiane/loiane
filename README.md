@@ -13,6 +13,7 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Building an AI Chat with Memory (Context) using Spring AI and Angular](https://loiane.com/2025/10/building-ai-chat-with-memory-using-spring-ai-and-angular/)
 - [What’s new in Java 25 (for Developers)](https://loiane.com/2025/09/whats-new-in-java-25-for-developers/)
 - [Spring Boot 4 and Spring Framework 7: Key Features and Changes](https://loiane.com/2025/08/spring-boot-4-spring-framework-7-key-features/)
 - [Using GitHub Copilot to Generate Conventional Commit Messages in VSCode and IntelliJ IDEA](https://loiane.com/2025/08/copilot-conventional-commit-messages/)
