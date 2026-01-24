@@ -26,11 +26,13 @@ ____
 ____
 
 ### 📹 Recent Videos on YouTube
-- [Spring AI + Angular: Introdução](https://youtu.be/10oDBG6V5Q8)
-- [Spring AI + Angular: Primeiro Projeto [Chat Client]](https://youtu.be/M7j84Y16bFk)
-- [Spring AI + Angular: Chat Client com Gemini](https://youtu.be/Kq37KNwt3bA)
-- [Spring AI + Angular: Chat Client com Azure OpenAI](https://youtu.be/fjkZjObT3ro)
-- [Spring AI + Angular: Criando Projeto Angular](https://youtu.be/WUhUB0IChxE)
+- Angular Course 01: [Getting Started](https://youtu.be/cMi3mNWjtyY)
+- Angular Course 02: [Environment Setup](https://youtu.be/GxTBDSiKNeY)
+- Angular Course 03: [Creating the First Component](https://youtu.be/oJJNTyFcsN4)
+- Angular Course 04: [Component Templates and Interactions](https://youtu.be/E9Q1yn3h9d0)
+- Angular Course 05: [Introducing Signals](https://youtu.be/j1diBkWLk1k)
+- Angular Course 06: [Computed Signals](https://youtu.be/KTSkMvRT6zs)
+- Angular Course 07: [Effects](https://youtu.be/jjGT7EwdH9o)
 
 ____
 
