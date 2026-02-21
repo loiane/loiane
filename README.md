@@ -74,8 +74,5 @@ IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-____
 
-## 📊 GitHub Stats
-![Loiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=loiane&show_icons=true&theme=tokyonight)
 
