@@ -13,15 +13,13 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [What's new in Java 26 (for Developers)](https://loiane.com/2026/03/whats-new-in-java-26-for-developers/)
+- [Vibecoding a RAG App with Google Antigravity, Gemini 3 Pro, Angular, and Spring AI](https://loiane.com/2025/12/google-antigravity-angular-spring-ai-document-rag/)
+- [Angular v21 and the End of TS-Only Test Coverage: Why We Must Rethink Component Testing](https://loiane.com/2025/12/angular-v21-template-coverage-testing/)
 - [Building an AI Chat with Memory (Context) using Spring AI and Angular](https://loiane.com/2025/10/building-ai-chat-with-memory-using-spring-ai-and-angular/)
-- [What’s new in Java 25 (for Developers)](https://loiane.com/2025/09/whats-new-in-java-25-for-developers/)
+- [What's new in Java 25 (for Developers)](https://loiane.com/2025/09/whats-new-in-java-25-for-developers/)
 - [Spring Boot 4 and Spring Framework 7: Key Features and Changes](https://loiane.com/2025/08/spring-boot-4-spring-framework-7-key-features/)
 - [Using GitHub Copilot to Generate Conventional Commit Messages in VSCode and IntelliJ IDEA](https://loiane.com/2025/08/copilot-conventional-commit-messages/)
-- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
-- [Getting Starting with Intelligent Java Applications using Spring AI](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
-- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
-- [Visual Studio Code for Java: The Complete Guide (Tips, Setup, and Extensions)](https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/)
-- [Github Actions for Angular Projects: CI/CD Pipeline for Testing, Building and ng update](https://loiane.com/2024/03/github-actions-for-angular-projects-cicd-pipeline-for-testing-building-and-ng-update/)
 
 ____
 
@@ -33,6 +31,7 @@ ____
 - Angular Course 05: [Introducing Signals](https://youtu.be/j1diBkWLk1k)
 - Angular Course 06: [Computed Signals](https://youtu.be/KTSkMvRT6zs)
 - Angular Course 07: [Effects](https://youtu.be/jjGT7EwdH9o)
+- Angular Course 08: [Angular Material + Header Setup](https://youtu.be/KwU_MVOY87o)
 
 ____
 
@@ -73,6 +72,5 @@ Tools:
 IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
 
