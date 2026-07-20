@@ -13,25 +13,30 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Architecture Testing for Java with ArchUnit: Stop Trusting Your Diagram, Start Testing It](https://loiane.com/2026/07/architecture-testing-java-archunit/)
+- [Mutation Testing for Java with PIT: Stop Trusting Your Coverage Numbers](https://loiane.com/2026/06/mutation-testing-java-pit/)
+- [Specs-Driven Development in Practice: End-to-End Delivery with Spring Boot and Angular](https://loiane.com/2026/05/specs-driven-development-end-to-end-with-spring-boot-angular/)
+- [Spring Boot 3 EOL to Spring Boot 4: A Production Upgrade Playbook (Including Jackson 2 to 3)](https://loiane.com/2026/04/spring-boot-3-eol-to-4-upgrade-playbook-jackson-3/)
+- [Harness Engineering: The Missing Layer in Specs-Driven AI Development](https://loiane.com/2026/04/harness-engineering-missing-layer-specs-driven-ai-development/)
 - [What's new in Java 26 (for Developers)](https://loiane.com/2026/03/whats-new-in-java-26-for-developers/)
 - [Vibecoding a RAG App with Google Antigravity, Gemini 3 Pro, Angular, and Spring AI](https://loiane.com/2025/12/google-antigravity-angular-spring-ai-document-rag/)
-- [Angular v21 and the End of TS-Only Test Coverage: Why We Must Rethink Component Testing](https://loiane.com/2025/12/angular-v21-template-coverage-testing/)
-- [Building an AI Chat with Memory (Context) using Spring AI and Angular](https://loiane.com/2025/10/building-ai-chat-with-memory-using-spring-ai-and-angular/)
-- [What's new in Java 25 (for Developers)](https://loiane.com/2025/09/whats-new-in-java-25-for-developers/)
-- [Spring Boot 4 and Spring Framework 7: Key Features and Changes](https://loiane.com/2025/08/spring-boot-4-spring-framework-7-key-features/)
-- [Using GitHub Copilot to Generate Conventional Commit Messages in VSCode and IntelliJ IDEA](https://loiane.com/2025/08/copilot-conventional-commit-messages/)
 
 ____
 
 ### 📹 Recent Videos on YouTube
 - Angular Course 01: [Getting Started](https://youtu.be/cMi3mNWjtyY)
 - Angular Course 02: [Environment Setup](https://youtu.be/GxTBDSiKNeY)
-- Angular Course 03: [Creating the First Component](https://youtu.be/oJJNTyFcsN4)
+- Angular Course 03: [Creating the First Component](https://youtu.be/EZXg3ZabHzA)
 - Angular Course 04: [Component Templates and Interactions](https://youtu.be/E9Q1yn3h9d0)
 - Angular Course 05: [Introducing Signals](https://youtu.be/j1diBkWLk1k)
 - Angular Course 06: [Computed Signals](https://youtu.be/KTSkMvRT6zs)
 - Angular Course 07: [Effects](https://youtu.be/jjGT7EwdH9o)
 - Angular Course 08: [Angular Material + Header Setup](https://youtu.be/KwU_MVOY87o)
+- Angular Course 09: [Products Grid with Angular Material](https://youtu.be/Lv6lllzZZKI)
+- Angular Course 10: [Rendering Lists with Signals and @for](https://youtu.be/8up47YZ4ZVg)
+- Angular Course 11: [Passing Data to Child Components with input()](https://youtu.be/G0UuqN4o3rI)
+- Angular Course 12: [Conditional Rendering with @if and @else](https://youtu.be/p6YQWZF25rY)
+- Angular Course 13: [Writable Signals for Search State](https://youtu.be/O-Fkq-cLDd8)
 
 ____
 
