@@ -13,13 +13,13 @@ For my contributions to the developer community, I was honored by being given th
 ____
 
 ### 📝 Recent Articles
+- [Mutation Testing for Angular with Stryker: When 100% Coverage Still Tests Nothing](https://loiane.com/2026/08/mutation-testing-angular-stryker/)
+- [Contract Testing for Spring Boot and Angular: Catch Frontend-Backend Drift Before Production](https://loiane.com/2026/07/contract-testing-spring-boot-angular/)
 - [Architecture Testing for Java with ArchUnit: Stop Trusting Your Diagram, Start Testing It](https://loiane.com/2026/07/architecture-testing-java-archunit/)
 - [Mutation Testing for Java with PIT: Stop Trusting Your Coverage Numbers](https://loiane.com/2026/06/mutation-testing-java-pit/)
 - [Specs-Driven Development in Practice: End-to-End Delivery with Spring Boot and Angular](https://loiane.com/2026/05/specs-driven-development-end-to-end-with-spring-boot-angular/)
 - [Spring Boot 3 EOL to Spring Boot 4: A Production Upgrade Playbook (Including Jackson 2 to 3)](https://loiane.com/2026/04/spring-boot-3-eol-to-4-upgrade-playbook-jackson-3/)
 - [Harness Engineering: The Missing Layer in Specs-Driven AI Development](https://loiane.com/2026/04/harness-engineering-missing-layer-specs-driven-ai-development/)
-- [What's new in Java 26 (for Developers)](https://loiane.com/2026/03/whats-new-in-java-26-for-developers/)
-- [Vibecoding a RAG App with Google Antigravity, Gemini 3 Pro, Angular, and Spring AI](https://loiane.com/2025/12/google-antigravity-angular-spring-ai-document-rag/)
 
 ____
 
@@ -77,5 +77,4 @@ Tools:
 IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
